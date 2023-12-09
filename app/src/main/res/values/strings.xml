@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewActivity</string>
+    <string name="key_link"></string>
+    <string name="btnTxt">Кнопка с картинкой</string>
+</resources>
