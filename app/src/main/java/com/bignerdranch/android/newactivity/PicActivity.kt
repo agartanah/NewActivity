@@ -19,3 +19,6 @@ class PicActivity : AppCompatActivity() {
         Glide.with(this).load(link).into(pic)
     }
 }
+
+
+

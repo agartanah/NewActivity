@@ -3,10 +3,11 @@ package com.bignerdranch.android.newactivity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Button
 
 class MainActivity : AppCompatActivity() {
-    private val URL = "http://abload.de/img/gandalf-laughhugeylo0t.gif"
+    private val URL = "https://media.tenor.com/ko2smYF8O7YAAAAd/party-party-time.gif"
 
     private lateinit var button: Button
 
